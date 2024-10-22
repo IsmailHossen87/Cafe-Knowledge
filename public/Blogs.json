@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "author": "John Doe",
+      "cover": "https://i.ibb.co.com/LgvdZ8g/1.jpg",
+      "title": "The Mystery of Time",
+      "post": "An exploration of the unknowns surrounding the concept of time.",
+      "img": "https://i.ibb.co.com/rks8hmf/boy1.png",
+      "reading_time": 5,
+      "date": "2024-11-01",
+      "hashtag": ["#time", "#mystery"]
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "cover": "https://i.ibb.co.com/fqZn6R6/2.png",
+      "title": "Adventures in the Digital Age",
+      "post": "How technology has transformed our everyday lives.",
+      "img": "https://i.ibb.co.com/5jfPMmW/boy2.jpg",
+      "reading_time": 7,
+      "date": "2024-11-01",
+      "hashtag": ["#technology", "#future"]
+    },
+    {
+      "id": 3,
+      "author": "Michael Johnson",
+      "cover": "https://i.ibb.co.com/kqGX2Vc/4.jpg",
+      "title": "The Art of Mindfulness",
+      "post": "A guide to finding peace and clarity in a fast-paced world.",
+      "img": "https://i.ibb.co.com/kxgfk6v/girl1.jpg",
+      "reading_time": 6,
+      "date": "2024-11-01",
+      "hashtag": ["#mindfulness", "#wellbeing"]
+    },
+    {
+      "id": 4,
+      "author": "Emily Davis",
+      "cover": "https://i.ibb.co.com/FsfKddH/3.png",
+      "title": "A Journey Through Space",
+      "post": "The latest discoveries and mysteries in space exploration.",
+      "img": "https://i.ibb.co.com/n74M3c7/girl2.jpgg",
+      "reading_time": 8,
+      "date": "2024-11-01",
+      "hashtag": ["#space", "#science"]
+    }
+  ]
+  
+
+
+
+
